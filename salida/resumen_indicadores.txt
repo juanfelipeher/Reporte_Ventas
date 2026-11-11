@@ -1,0 +1,12 @@
+RESUMEN DE INDICADORES (calculados por Java)
+- Registros procesados: 15
+- Valor total de ventas: $36.630.000 COP
+- Cantidad total vendida: 82 unidades
+- Producto con mayor valor vendido: Laptop ($21.000.000 COP)
+- Valor promedio por registro: $2.442.000 COP
+- Valor vendido por producto:
+    * Laptop: $21.000.000 COP
+    * Mouse: $2.880.000 COP
+    * Monitor: $8.100.000 COP
+    * Teclado: $3.150.000 COP
+    * Audifonos: $1.500.000 COP
